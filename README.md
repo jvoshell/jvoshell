@@ -5,10 +5,8 @@
   - [Project Name](Link)
   
 <h2>📜 Certificates</h2>
-<p align="left">
-<img src="https://imgur.com/a/Yl3Q2NB" height="80%" width="80%" alt="Google IT Support"/>
-</p>
- 
+<a href="https://github.com/jvoshell/jvoshell/assets/129989734/a3cc95ee-d3aa-4ffd-9ca5-17631457864a">Google IT Support</a>
+
 <h2>🖥️ YouTube Videos</h2>
 
 
