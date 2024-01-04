@@ -1,11 +1,12 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/jvoshell">Network Professional</a>, <a href="https://www.linkedin.com/in/james-m-voshell/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
+<h1>Hi, I'm James! <br/>
+<a href="https://github.com/jvoshell">Network Professional</a>, <a href="https://www.linkedin.com/in/james-m-voshell/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
 
 <h2>💻 Cyber Security Projects:</h2>
 - <b>Project Header</b>
   - [Project Name](Link)
   
 <h2>📜 Certificates</h2>
-<a href="https://github.com/jvoshell/jvoshell/assets/129989734/a3cc95ee-d3aa-4ffd-9ca5-17631457864a">Google IT Support</a>
+- <b><a href="https://github.com/jvoshell/jvoshell/assets/129989734/a3cc95ee-d3aa-4ffd-9ca5-17631457864a">Google IT Support</a></b>
 
 <h2>🖥️ YouTube Videos</h2>
 
