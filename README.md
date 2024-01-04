@@ -5,7 +5,7 @@
   - [Project Name](Link)
   
 <h2>📜 Certificates</h2>
- - [Google IT Support]((https://imgur.com/a/Yl3Q2NB)
+ - [Google IT Support](https://imgur.com/a/Yl3Q2NB)
  
 <h2>🖥️ YouTube Videos</h2>
 
